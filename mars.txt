@@ -1,0 +1,5 @@
+old and dry, but everything is my favorite coloR
+:q
+old and dry, but everything is my favorite color
+:wq
+old and dry, but everything is my favorite color
